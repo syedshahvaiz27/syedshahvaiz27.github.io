@@ -1,1 +1,1 @@
-# SyedShahwaiz.com
+# syedshahwaiz.com
