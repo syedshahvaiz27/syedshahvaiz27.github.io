@@ -50,7 +50,7 @@ ScrollReveal().reveal('.home-content p1, .about-content',{ origin: 'right' });
 
 /*======================typed js======================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Frontend  Developer', 'Graphic Designer', 'SEO'],
+    strings: ['Frontend  Developer', 'Graphic Designer', 'SEO Specialist'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -58,23 +58,3 @@ const typed = new Typed('.multiple-text', {
 });
 
 
-// /*=====================for email=====================*/
-
-// // JavaScript to create a "mailto" link
-// document.getElementById('emailLink').addEventListener('click', function () {
-//     var emailAddress = 'shahwaizsyed01@gmail.com'; // Replace with your email address
-//     var subject = 'email from portfolio website'; // Optional: Add a subject to the email
-//     var body = 'Hello, I have a question about your website.'; // Optional: Add a default message
-
-//     var mailtoLink = 'mailto:shahwaizsyed01@gmail.com' + encodeURIComponent(emailAddress);
-    
-//     if (subject) {
-//         mailtoLink += '?subject=' + encodeURIComponent(subject);
-//     }
-    
-//     if (body) {
-//         mailtoLink += '&body=' + encodeURIComponent(body);
-//     }
-
-//     window.location.href = mailtoLink;
-// })
