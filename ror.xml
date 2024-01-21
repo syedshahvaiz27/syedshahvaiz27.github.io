@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://syedshahwaiz27.github.io/</title>
+  <link>https://syedshahwaiz27.github.io/</link>
+
+<item>
+     <link>https://syedshahwaiz27.github.io/</link>
+     <title>Shahwaiz - Frontend Developer, Graphic Designer, SEO Expert</title>
+     <description>Explore the portfolio of Shahwaiz, a multi-talented professional in frontend development, graphic design, and SEO optimization.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://syedshahwaiz27.github.io/Cv.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://syedshahwaiz27.github.io/ReadMore.html</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://syedshahwaiz27.github.io/services.html</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://syedshahwaiz27.github.io/index.html</link>
+     <title>Shahwaiz - Frontend Developer, Graphic Designer, SEO Expert</title>
+     <description>Explore the portfolio of Shahwaiz, a multi-talented professional in frontend development, graphic design, and SEO optimization.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
